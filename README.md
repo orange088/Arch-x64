@@ -43,9 +43,3 @@ Other
 # Credits
 - evrope#5714 for the GUI
 - http://www.capstone-engine.org/
-
-# Can i contribute?
-yes! if you want to add or change something make a PR or message me on discord surgegottapped.
-
-# The purpose of this?
-mainly for fun while i was bored. this could become something cool but don't have time or knowledge to make this a useful tool
